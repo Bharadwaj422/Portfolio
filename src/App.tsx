@@ -268,7 +268,7 @@ const certifications = [
             <div className="flex flex-wrap justify-center gap-6 mb-12 text-gray-300">
               <div className="flex items-center gap-2">
                 <MapPin className="h-5 w-5 text-blue-400" />
-                <span>Hyderabad</span>
+                <span>Visakhaptnam</span>
               </div>
               <div className="flex items-center gap-2">
                 <Mail className="h-5 w-5 text-blue-400" />
@@ -672,7 +672,7 @@ const certifications = [
                     </div>
                     <div>
                       <p className="text-gray-400 text-sm">Location</p>
-                      <p className="text-white">Hyderabad, India</p>
+                      <p className="text-white">Visakhaptnam, India</p>
                     </div>
                   </div>
                 </div>
