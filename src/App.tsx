@@ -305,17 +305,16 @@ const certifications = [
                 <Github className="h-5 w-5" />
                 GitHub
               </a>
-              <a
-                href="/Bharadwaj_Resume.pdf"
-                target="_blank"
-                rel="noopener noreferrer"
-                download
-              >
-                <button className="glow-button bg-teal-600 hover:bg-teal-700 text-white px-8 py-4 rounded-full font-semibold transition-all duration-300 flex items-center gap-2 shadow-lg hover:shadow-teal-500/25">
-                  <Download className="h-5 w-5" />
-                  Download Resume
-                </button>
-              </a>
+<a
+  href="/Bharadwaj_Resume.pdf"
+  target="_blank"
+  rel="noopener noreferrer"
+  className="glow-button bg-teal-600 hover:bg-teal-700 text-white px-8 py-4 rounded-full font-semibold transition-all duration-300 flex items-center gap-2 shadow-lg hover:shadow-teal-500/25"
+>
+  <Download className="h-5 w-5" />
+  View Resume
+</a>
+
 
             </div>
 
