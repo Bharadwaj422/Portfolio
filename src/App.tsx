@@ -88,7 +88,7 @@ const App = () => {
       location: "Remote",
       period: "Apr 2024 – Jun 2024",
       description: "Built ML model to predict repeat blood donations. Automated ML pipeline with TPOT.",
-      link: "GitHub Link",
+      link: "https://github.com/Bharadwaj422/Predict_blood_Donor",
       technologies: ["Machine Learning", "TPOT", "Python", "Predictive Analytics"]
     },
     {
@@ -97,7 +97,7 @@ const App = () => {
       location: "Remote",
       period: "Jan 2024 – Apr 2024",
       description: "Performed restaurant data analysis. Extracted trends & visualized data using Python.",
-      link: "GitHub Link",
+      link: "https://github.com/Bharadwaj422/Restaurant-database-Analysis",
       technologies: ["Python", "Data Visualization", "Trend Analysis"]
     }
   ];
@@ -114,28 +114,27 @@ const App = () => {
       title: "Blood Donation Predictor",
       description: "Automated ML pipeline to predict repeat donors",
       technologies: ["TPOT", "Machine Learning", "Python"],
-      link: "GitHub",
+      link: "https://github.com/Bharadwaj422/Predict_blood_Donor",
       category: "Machine Learning"
     },
     {
       title: "Restaurant Data Insights",
       description: "Comprehensive trend analysis on cuisines, price ranges, and ratings",
       technologies: ["Python", "Data Visualization", "Analytics"],
-      link: "GitHub",
+      link: "https://github.com/Bharadwaj422/Restaurant-database-Analysis",
       category: "Data Analytics"
     },
     {
       title: "Employee Tracking Dashboard",
       description: "Interactive Power BI dashboard for attendance, skills, and project allocation",
       technologies: ["Power BI", "Dashboard Design", "Analytics"],
-      link: "GitHub",
+      link: "https://github.com/Bharadwaj422/Employee-Monitoring-System-",
       category: "Business Intelligence"
     },
     {
       title: "Travel Booking System",
       description: "Personalized travel plans with trip cancellation and user authentication",
       technologies: ["Pega", "System Architecture", "Authentication"],
-      link: "GitHub",
       category: "System Design"
     }
   ];
@@ -161,7 +160,7 @@ const certifications = [
   },
   {
     title: "Python for Data Science (NPTEL)",
-    link: "#", // You can replace this with actual URL if available
+    link: "https://archive.nptel.ac.in/content/noc/NOC23/SEM1/Ecertificates/106/noc23-cs21/Course/NPTEL23CS21S1589053403065281.jpg",
   },
   {
     title: "Introduction to Databases (NxtWave)",
